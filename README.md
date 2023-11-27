@@ -1,16 +1,26 @@
-### Hi there 👋
+# Mohammed Isaak Mujamil - Backend Developer
 
-<!--
-**Isaak29/Isaak29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Hello! I'm Mohammed Isaak Mujamil , a passionate backend developer with a keen interest in building scalable and efficient software solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 💡 Passionate problem solver, crafting elegant Python solutions.
+- 🎓 I hold a certificate in Python Full Stack Development.
+- 🌱 Currently honing my skills in backend development, API design, and database management.
+- ✍️ In my free time, I enjoy contributing to open-source projects and staying up-to-date with the latest trends in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Here are some of the technologies I work with:
+
+- Python | Django | Flask | FastAPI
+- SQL | MongoDB
+- Git | GitHub
+
+## 🤝 Connect with Me
+Let's connect! Feel free to reach out for collaboration or just to have an interesting tech discussion.
+
+- 📧 Email: mdisaak29@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-isaak-mujamil-790620247/
+
+## 📄 Portfolio
+Check out my portfolio for more details about my projects and work. [https://Isaak29.github.io/]
+Happy to coding! 🚀
